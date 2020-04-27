@@ -5,7 +5,7 @@ The challenge was to recreate the web page as presented in the design file provi
 
 ### Frontend Mentor Reference Screenshot - Desktop
 
-![Frontend Mentor Reference Screenshot Desktop](design/desktop-preview.jpg)
+![Frontend Mentor Reference Screenshot Desktop](design/desktop-design.jpg)
 
 ### Frontend Mentor Reference Screenshot - Mobile 
 
